@@ -10,3 +10,5 @@ jdk:
 after_script:
     print_surefire_reports.sh
  
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
