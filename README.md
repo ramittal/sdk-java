@@ -2,9 +2,7 @@ Authorize.Net Java SDK
 ======================
 [![Build Status](https://travis-ci.org/ramittal/sdk-java.png?branch=master)]
 (https://travis-ci.org/ramittal/sdk-java)
-
-[![Coverage status](https://img.shields.io/codecov/c/github/ramittal/anet-java-sdk.svg)](https://codecov.io/github/ramittal/anet-java-sdk)
-
+[![Coverage status](https://img.shields.io/codecov/c/github/ramittal/sdk-java.svg)](https://codecov.io/github/ramittal/sdk-java)
 [![Maven Central](https://img.shields.io/maven-central/v/net.authorize/anet-java-sdk.svg)](https://maven-badges.herokuapp.com/maven-central/net.authorize/anet-java-sdk)
 
 
